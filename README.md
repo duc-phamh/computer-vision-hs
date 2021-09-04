@@ -2,7 +2,7 @@
 
 This repository contains my classworks for the course Neural Network and Computer Vision at Harbour.Space University.
 
-Lecturer:
+Lecturers:
 * [Sergey Nikolenko](https://www.linkedin.com/in/snikolenko/?originalSubdomain=ru), Chief Research Officer at Synthesis AI
 * [Alex Davydow](https://www.linkedin.com/in/alex-davydow-740087167/), Lead Researcher at Synthesis AI
 
