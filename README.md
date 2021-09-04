@@ -7,8 +7,8 @@ Lecturer:
 * [Alex Davydow](https://www.linkedin.com/in/alex-davydow-740087167/), Lead Researcher at Synthesis AI
 
 Assignments:
-* Evaluating GAN [![Open in Colab](https://colab.research.google.com/drive/1C9jjggprKzP4cv-j7W9-d3YIYWIkW_ZC?usp=sharing)]
-* Convolutional Neural Network [![Open in Colab](https://colab.research.google.com/drive/14iltrLEYs0vR7cZqxfVWKODu-36xATqj?usp=sharing)]
-* Network troubleshooting, hyperparameter choice [![Open in Colab](https://colab.research.google.com/drive/1u15364DPgxL5JYdtNu_FkfY2GEnexhN2?usp=sharing#scrollTo=j5zMsrqPheT7)]
-* Optimization in Neural Network [![Open in Colab](https://colab.research.google.com/drive/1lkQh52Q0imcUNtQpvSHh_phQkUEZwmLa?usp=sharing)]
-* Final project: One-class classification for Doge memes [![Open in Colab](https://drive.google.com/file/d/1-09FoX2w_nRGzd6Mga-QY0a63cdC1oZt/view?usp=sharing)]
+* Evaluating GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C9jjggprKzP4cv-j7W9-d3YIYWIkW_ZC?usp=sharing)
+* Convolutional Neural Network [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14iltrLEYs0vR7cZqxfVWKODu-36xATqj?usp=sharing)
+* Network troubleshooting, hyperparameter choice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u15364DPgxL5JYdtNu_FkfY2GEnexhN2?usp=sharing#scrollTo=j5zMsrqPheT7)
+* Optimization in Neural Network [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lkQh52Q0imcUNtQpvSHh_phQkUEZwmLa?usp=sharing)
+* Final project: One-class classification for Doge memes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1-09FoX2w_nRGzd6Mga-QY0a63cdC1oZt/view?usp=sharing)
